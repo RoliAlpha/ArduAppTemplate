@@ -1,4 +1,5 @@
-"name": "ArduAppTemplate",
+{
+  "name": "ArduAppTemplate",
   "keywords": "arduino, sensor, ardusensorplatform framework",
   "description": "ArduApp demo  for ardusensorplatform framework",
   "repository":
@@ -48,3 +49,4 @@
   "version": "1.2.0",
   "frameworks": "arduino",
   "platforms": "*"
+}
